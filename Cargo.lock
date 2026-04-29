@@ -12,6 +12,9 @@ dependencies = [
 [[package]]
 name = "TokioQuest2"
 version = "0.1.0"
+dependencies = [
+ "tokio",
+]
 
 [[package]]
 name = "bitflags"
