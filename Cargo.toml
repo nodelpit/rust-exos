@@ -1,5 +1,5 @@
 [workspace]
-members = ["TokioQuest", "TokioQuest2"]
+members = ["TokioQuest", "TokioQuest2", "TokioQuest3"]
 
 [workspace.dependencies]
 tokio = { version = "1.52.1", features = ["full"] }
